@@ -1,0 +1,17 @@
+#realkit_column_thumbnail {
+	width: 60px;
+}
+.realkit_column_thumbnail img {
+	max-width: 60px;
+	max-height: 60px;
+	border: 1px solid rgba(0,0,0,.07);
+}
+
+.realkit_taxonomy_thumbnail_add button,
+.realkit_taxonomy_thumbnail_quick button,
+.realkit_taxonomy_thumbnail_edit button {
+	margin-top: 5px !important;
+}
+.realkit_taxonomy_thumbnail_edit img {
+	max-width: 100px;
+}

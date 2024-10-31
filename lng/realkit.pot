@@ -1,0 +1,446 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: real.Kit\n"
+"POT-Creation-Date: 2022-12-12 12:21+0300\n"
+"PO-Revision-Date: 2019-03-25 14:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: real-kit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mod/categories/tpl/field_edit.php:4
+msgid "Posts per page"
+msgstr ""
+
+#: mod/categories/tpl/field_edit.php:9
+msgid "By default for all categories"
+msgstr ""
+
+#: mod/column_id/index.php:94
+msgid "Media"
+msgstr ""
+
+#: mod/column_id/index.php:123 mod/dashboard/class.php:49
+msgid "Users"
+msgstr ""
+
+#: mod/column_id/index.php:152 mod/dashboard/class.php:126
+msgid "Comments"
+msgstr ""
+
+#: mod/column_id/settings.php:10
+msgid "ID"
+msgstr ""
+
+#: mod/column_id/settings.php:11 mod/thumbnails/settings.php:11
+msgid "Will be shown on the marked pages of the admin panel"
+msgstr ""
+
+#: mod/dashboard/class.php:10
+msgid "PHP version"
+msgstr ""
+
+#: mod/dashboard/class.php:17
+msgid "WordPress version"
+msgstr ""
+
+#: mod/dashboard/class.php:26
+msgid "Theme"
+msgstr ""
+
+#: mod/dashboard/class.php:35
+msgid "Indexing"
+msgstr ""
+
+#: mod/dashboard/class.php:36
+msgid "On"
+msgstr ""
+
+#: mod/dashboard/class.php:36
+msgid "Off"
+msgstr ""
+
+#: mod/dashboard/class.php:60
+msgid "Plugins"
+msgstr ""
+
+#: mod/dashboard/class.php:73
+msgid "Widgets"
+msgstr ""
+
+#: mod/dashboard/class.php:82
+msgid "Menus"
+msgstr ""
+
+#: mod/dashboard/class.php:167
+msgid "No sidebars"
+msgstr ""
+
+#: mod/dashboard/index.php:23
+msgid "At a Glance"
+msgstr ""
+
+#: mod/dashboard/settings.php:10
+msgid "Dashboard"
+msgstr ""
+
+#: mod/dashboard/settings.php:20
+msgid "Use the extended widget \"At a Glance\""
+msgstr ""
+
+#: mod/dashboard/tpl/grid.php:2
+msgid "Information about current, active and published data"
+msgstr ""
+
+#: mod/maintenance/settings.php:10
+msgid "Maintenance mode"
+msgstr ""
+
+#: mod/maintenance/settings.php:21
+msgid ""
+"Any site visitor, except for the authorized administrator, will see the plug"
+msgstr ""
+
+#: mod/maintenance/tpl/html.php:5 mod/maintenance/tpl/html.php:18
+msgid "Site on maintenance"
+msgstr ""
+
+#: mod/metrics/settings.php:10
+msgid "Metrics"
+msgstr ""
+
+#: mod/metrics/settings.php:20
+#, php-format
+msgid "Code to insert inside the %s tag"
+msgstr ""
+
+#: mod/metrics/settings.php:28
+#, php-format
+msgid "Code to insert before the closing %s tag"
+msgstr ""
+
+#: mod/modals/index.php:38 mod/modals/index.php:49
+msgid "Modals"
+msgstr ""
+
+#: mod/modals/index.php:39
+msgid "Modal"
+msgstr ""
+
+#: mod/modals/index.php:40
+msgid "Add New"
+msgstr ""
+
+#: mod/modals/index.php:41
+msgid "Add New Modal"
+msgstr ""
+
+#: mod/modals/index.php:42
+msgid "Edit Modal"
+msgstr ""
+
+#: mod/modals/index.php:43
+msgid "New Modal"
+msgstr ""
+
+#: mod/modals/index.php:44
+msgid "All Modals"
+msgstr ""
+
+#: mod/modals/index.php:45
+msgid "View Modal"
+msgstr ""
+
+#: mod/modals/index.php:46
+msgid "Search Modal"
+msgstr ""
+
+#: mod/modals/index.php:47
+msgid "No Modal found"
+msgstr ""
+
+#: mod/modals/index.php:48
+msgid "No Modal found in Trash"
+msgstr ""
+
+#: mod/modals/index.php:62 mod/modals/index.php:65
+msgid "Modal updated"
+msgstr ""
+
+#: mod/modals/index.php:66
+msgid "Modal restored"
+msgstr ""
+
+#: mod/modals/index.php:67
+msgid "Modal published"
+msgstr ""
+
+#: mod/modals/index.php:68
+msgid "Modal saved"
+msgstr ""
+
+#: mod/modals/index.php:69
+msgid "Modal submitted"
+msgstr ""
+
+#: mod/modals/index.php:70
+msgid "Publication is scheduled for:"
+msgstr ""
+
+#: mod/modals/index.php:70
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: mod/modals/index.php:71
+msgid "Modal draft updated"
+msgstr ""
+
+#: mod/modals/index.php:81
+msgid "Shortcode"
+msgstr ""
+
+#: mod/modals/index.php:112
+msgid "Open button"
+msgstr ""
+
+#: mod/modals/settings.php:10
+msgid "Modal windows"
+msgstr ""
+
+#: mod/modals/settings.php:20
+msgid "Use modal windows"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:2
+msgid "Text"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:6
+msgid "id"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:10
+msgid "class"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:13
+msgid "Button shortcode:"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:17
+msgid ""
+"Generate this window only if there is a shortcode on the page to open it"
+msgstr ""
+
+#: mod/optimize/actions.php:15 mod/optimize/actions.php:34
+#, php-format
+msgid "Revisions removed: %d"
+msgstr ""
+
+#: mod/optimize/actions.php:50
+#, php-format
+msgid "Autosaves removed: %d"
+msgstr ""
+
+#: mod/optimize/settings.php:10
+msgid "Optimization"
+msgstr ""
+
+#: mod/optimize/settings.php:29
+msgid "Maximum number of revisions per post"
+msgstr ""
+
+#: mod/optimize/settings.php:37
+msgid "Delete existing revisions"
+msgstr ""
+
+#: mod/optimize/settings.php:45
+msgid "Delete existing autosaves"
+msgstr ""
+
+#: mod/optimize/settings.php:53
+msgid ""
+"Check for updates only in the background and when you load the page "
+"\"Updates\""
+msgstr ""
+
+#: mod/optimize/settings.php:61
+msgid "Disable scripts and styles for Emojis"
+msgstr ""
+
+#: mod/optimize/tpl/settings_emojis.php:2
+msgid "Emojis"
+msgstr ""
+
+#: mod/optimize/tpl/settings_emojis.php:3
+msgid ""
+"WordPress connects to the site additional scripts and styles needed to "
+"display Emoji. After disabling them, you will see the usual smiles, but in "
+"some browsers (eg IE) they will be black and white."
+msgstr ""
+
+#: mod/optimize/tpl/settings_revisions.php:2
+msgid "Revisions"
+msgstr ""
+
+#: mod/optimize/tpl/settings_revisions.php:3
+msgid ""
+"Every time you update a post/page, WordPress creates a new row in the "
+"database (and store it for 7 days). This makes it possible, if necessary, to "
+"restore any of the revisions. But the more rows in the database - the slower "
+"the site."
+msgstr ""
+
+#: mod/optimize/tpl/settings_revisions.php:9
+msgid "infinite (default)"
+msgstr ""
+
+#: mod/optimize/tpl/settings_revisions.php:13
+msgid "off"
+msgstr ""
+
+#: mod/optimize/tpl/settings_search_update.php:2
+msgid "Updates"
+msgstr ""
+
+#: mod/optimize/tpl/settings_search_update.php:3
+msgid ""
+"Each time, when any admin panel page is loading, WordPress, at different "
+"intervals (depending on the specific page), search for updates core, themes "
+"and plugins. In some situations, this greatly slows down the loading of the "
+"admin panel pages."
+msgstr ""
+
+#: mod/optimize/tpl/settings_search_update.php:4
+msgid ""
+"In addition, the search for updates runs once an hour in the background, "
+"which does not affect the speed of page loading."
+msgstr ""
+
+#: mod/tags/settings.php:10
+msgid "Tags"
+msgstr ""
+
+#: mod/tags/settings.php:20
+msgid "Use quick adding tags"
+msgstr ""
+
+#: mod/thumbnails/settings.php:10
+msgid "Thumbnails"
+msgstr ""
+
+#: mod/thumbnails/tpl/field_add.php:2 mod/thumbnails/tpl/field_edit.php:5
+#: mod/thumbnails/tpl/field_quick.php:5
+msgid "Thumbnail"
+msgstr ""
+
+#: mod/thumbnails/tpl/field_add.php:5 mod/thumbnails/tpl/field_edit.php:15
+#: mod/thumbnails/tpl/field_quick.php:9
+msgid "Select"
+msgstr ""
+
+#: mod/thumbnails/tpl/field_add.php:6 mod/thumbnails/tpl/field_edit.php:16
+#: mod/thumbnails/tpl/field_quick.php:10
+msgid "Remove"
+msgstr ""
+
+#: mod/thumbnails/tpl/field_add.php:7 mod/thumbnails/tpl/field_edit.php:17
+#, php-format
+msgid "To get the path of the thumbnail, use the PHP function: %s"
+msgstr ""
+
+#: mod/translit/actions.php:66
+#, php-format
+msgid "Converted slugs: %d"
+msgstr ""
+
+#: mod/translit/index.php:24
+#, php-format
+msgid ""
+"You can convert all existing Cyrillic slugs to translit on the %ssettings "
+"page%s of plugin"
+msgstr ""
+
+#: mod/translit/index.php:32 mod/translit/index.php:33
+#: mod/translit/settings.php:10 mod/translit/tpl/generator.php:4
+#: mod/translit/tpl/generator.php:12
+msgid "Translit"
+msgstr ""
+
+#: mod/translit/settings.php:11
+msgid "All available characters will be converted to lower case"
+msgstr ""
+
+#: mod/translit/settings.php:20
+msgid ""
+"Turn on translit for posts and terms (including pages, categories, tags)"
+msgstr ""
+
+#: mod/translit/settings.php:36
+msgid "Restore default rule settings (based on ISO 9:1995)"
+msgstr ""
+
+#: mod/translit/settings.php:45
+msgid ""
+"Convert all existing slugs that do not comply with the current rules, except "
+"for the names of media files"
+msgstr ""
+
+#: mod/translit/tpl/generator.php:8
+msgid "Cyrillic"
+msgstr ""
+
+#: mod/translit/tpl/generator.php:13
+msgid "Click to copy"
+msgstr ""
+
+#: mod/translit/tpl/settings.php:14
+msgid "Other characters that are not valid for the URL"
+msgstr ""
+
+#: real-kit.php:17
+msgid "Requires PHP 5.6 or higher"
+msgstr ""
+
+#: real-kit.php:18
+#, php-format
+msgid "Current version: %s"
+msgstr ""
+
+#: real-kit.php:41
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: settings.php:8 settings.php:9 tpl/settings.php:4
+msgid "real.Kit"
+msgstr ""
+
+#: tpl/settings.php:8
+#, php-format
+msgid "I would be very grateful for any %s support %s !"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Main features: translit, ID column, thumbnails for categories and tags, "
+"simple modal windows, a plug at the time of development of the site, an "
+"extended widget \"At a Glance\", different options to optimize the site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "realMaster"
+msgstr ""

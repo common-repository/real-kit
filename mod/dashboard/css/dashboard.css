@@ -1,0 +1,40 @@
+#realkit_dashboard_info .inside {
+	margin: 0;
+	padding: 5px 0;
+}
+
+.realkit_dashboard_info {
+	line-height: 20px;
+}
+.realkit_dashboard_info_row {
+	display: table;
+	width: 100%;
+	padding: 3px 10px;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+.realkit_dashboard_info_row:hover {
+	background: #f8f8f8;
+}
+.realkit_dashboard_info_row_title {
+	display: table-cell;
+	vertical-align: top;
+}
+.realkit_dashboard_info_row_value {
+	display: table-cell;
+	vertical-align: top;
+	width: 40%;
+	color: #000;
+	font-size: 16px;
+}
+.realkit_dashboard_info_desc {
+	padding: 0 10px;
+	color: #888;
+	font-size: 12px;
+	font-style: italic;
+}
+.realkit_dashboard_info_sep {
+	height: 1px;
+	margin: 5px 10px;
+	background: #ddd;
+}

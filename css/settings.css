@@ -1,0 +1,98 @@
+.realkit_settings_group {
+	margin: 0 -10px 20px;
+	padding: 10px;
+	border-radius: 2px;
+	transition: all 200ms linear;
+}
+.realkit_settings_sub_group {}
+.realkit_settings_group h3 {
+	font-size: 1.2em;
+}
+.realkit_settings_group label {
+	display: inline-block;
+	margin: 0 0 5px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+.realkit_settings_group label:hover {
+  background: #f1f1f1;
+}
+.realkit_settings_group input {
+	margin: 0;
+}
+.realkit_settings_group label input:disabled ~ span {
+	color: #999;
+}
+.realkit_settings_group label input[type="checkbox"] {
+	margin: -4px 4px 0 0;
+}
+
+.realkit_settings_group_title h2 {
+	margin-top: 0;
+}
+
+.realkit_settings_group_fields.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+.realkit_settings_group_fields.row label {
+	width: 50%;
+}
+
+.realkit_settings_group textarea {
+	width: 100%;
+	height: 120px;
+}
+
+.realkit_settings_group:hover {
+	background: #f8f8f8;
+	box-shadow: 0 0 8px rgba(0,0,0,.2);
+}
+
+.realkit_settings p.submit {
+	position: sticky;
+	bottom: 0;
+	margin: 0 -20px;
+	padding: 20px;
+	background: #f0f0f1;
+	border-top: 1px solid #ddd;
+}
+
+@media (min-width: 568px) {
+	.realkit_settings_group_fields.row label {
+		width: 33.33%;
+	}
+}
+
+@media (min-width: 667px) {
+	.realkit_settings_group_fields.row label {
+		width: 25%;
+	}
+}
+
+@media (min-width: 800px) {
+	.realkit_settings_group_fields.row label {
+		width: 180px;
+	}
+}
+
+/*
+*******************************************************************************/
+
+.realkit_settings .notice {
+	margin: 15px 0 25px;
+}
+.realkit_settings_donate {
+	display: block;
+	margin: 10px 0;
+	line-height: 30px;
+	font-size: 16px;
+}
+.realkit_settings_donate a {
+	display: inline-block;
+	padding: 0 10px;
+	text-decoration: none;
+	color: #fff;
+	background: #ff8c00;
+	border-radius: 15px;
+}

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: real.Kit\n"
+"POT-Creation-Date: 2022-12-12 12:18+0300\n"
+"PO-Revision-Date: 2022-12-12 12:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: real-kit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mod/categories/tpl/field_edit.php:4
+msgid "Posts per page"
+msgstr "Записей на странице"
+
+#: mod/categories/tpl/field_edit.php:9
+msgid "By default for all categories"
+msgstr "По умолчанию для всех рубрик"
+
+#: mod/column_id/index.php:94
+msgid "Media"
+msgstr "Медиафайлы"
+
+#: mod/column_id/index.php:123 mod/dashboard/class.php:49
+msgid "Users"
+msgstr "Пользователи"
+
+#: mod/column_id/index.php:152 mod/dashboard/class.php:126
+msgid "Comments"
+msgstr "Комментарии"
+
+#: mod/column_id/settings.php:10
+msgid "ID"
+msgstr ""
+
+#: mod/column_id/settings.php:11 mod/thumbnails/settings.php:11
+msgid "Will be shown on the marked pages of the admin panel"
+msgstr "Будут показаны на отмеченных страницах админ панели"
+
+#: mod/dashboard/class.php:10
+msgid "PHP version"
+msgstr "Версия PHP"
+
+#: mod/dashboard/class.php:17
+msgid "WordPress version"
+msgstr "Версия WordPress"
+
+#: mod/dashboard/class.php:26
+msgid "Theme"
+msgstr "Тема"
+
+#: mod/dashboard/class.php:35
+msgid "Indexing"
+msgstr "Индексация"
+
+#: mod/dashboard/class.php:36
+msgid "On"
+msgstr "Вкл"
+
+#: mod/dashboard/class.php:36
+msgid "Off"
+msgstr "Выкл"
+
+#: mod/dashboard/class.php:60
+msgid "Plugins"
+msgstr "Плагины"
+
+#: mod/dashboard/class.php:73
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: mod/dashboard/class.php:82
+msgid "Menus"
+msgstr "Меню"
+
+#: mod/dashboard/class.php:167
+msgid "No sidebars"
+msgstr "Нет сайдбаров"
+
+#: mod/dashboard/index.php:23
+msgid "At a Glance"
+msgstr "На виду"
+
+#: mod/dashboard/settings.php:10
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: mod/dashboard/settings.php:20
+msgid "Use the extended widget \"At a Glance\""
+msgstr "Использовать расширенный виджет \"На виду\""
+
+#: mod/dashboard/tpl/grid.php:2
+msgid "Information about current, active and published data"
+msgstr "Информация о текущих, активных и опубликованных данных"
+
+#: mod/maintenance/settings.php:10
+msgid "Maintenance mode"
+msgstr "Режим разработки"
+
+#: mod/maintenance/settings.php:21
+msgid ""
+"Any site visitor, except for the authorized administrator, will see the plug"
+msgstr ""
+"Любой посетитель сайта, кроме авторизованного администратора, увидит заглушку"
+
+#: mod/maintenance/tpl/html.php:5 mod/maintenance/tpl/html.php:18
+msgid "Site on maintenance"
+msgstr "Сайт в разработке"
+
+#: mod/metrics/settings.php:10
+msgid "Metrics"
+msgstr "Метрики"
+
+#: mod/metrics/settings.php:20
+#, php-format
+msgid "Code to insert inside the %s tag"
+msgstr "Код для вставки внутри тега %s"
+
+#: mod/metrics/settings.php:28
+#, php-format
+msgid "Code to insert before the closing %s tag"
+msgstr "Код для вставки перед закрывающим тегом %s"
+
+#: mod/modals/index.php:38 mod/modals/index.php:49
+msgid "Modals"
+msgstr "Окна"
+
+#: mod/modals/index.php:39
+msgid "Modal"
+msgstr "Окно"
+
+#: mod/modals/index.php:40
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: mod/modals/index.php:41
+msgid "Add New Modal"
+msgstr "Добавить новое окно"
+
+#: mod/modals/index.php:42
+msgid "Edit Modal"
+msgstr "Редактировать окно"
+
+#: mod/modals/index.php:43
+msgid "New Modal"
+msgstr "Новое окно"
+
+#: mod/modals/index.php:44
+msgid "All Modals"
+msgstr "Все окна"
+
+#: mod/modals/index.php:45
+msgid "View Modal"
+msgstr "Посмотреть окно"
+
+#: mod/modals/index.php:46
+msgid "Search Modal"
+msgstr "Найти окно"
+
+#: mod/modals/index.php:47
+msgid "No Modal found"
+msgstr "Окна не найдены"
+
+#: mod/modals/index.php:48
+msgid "No Modal found in Trash"
+msgstr "В корзине окна не найдены"
+
+#: mod/modals/index.php:62 mod/modals/index.php:65
+msgid "Modal updated"
+msgstr "Окно обновлено"
+
+#: mod/modals/index.php:66
+msgid "Modal restored"
+msgstr "Окно восстановлено"
+
+#: mod/modals/index.php:67
+msgid "Modal published"
+msgstr "Окно опубликовано"
+
+#: mod/modals/index.php:68
+msgid "Modal saved"
+msgstr "Окно сохранено"
+
+#: mod/modals/index.php:69
+msgid "Modal submitted"
+msgstr "Окно отправлено"
+
+#: mod/modals/index.php:70
+msgid "Publication is scheduled for:"
+msgstr "Публикация запланирована на:"
+
+#: mod/modals/index.php:70
+msgid "M j, Y @ G:i"
+msgstr "j F Y G:i"
+
+#: mod/modals/index.php:71
+msgid "Modal draft updated"
+msgstr "Черновик окна сохранен"
+
+#: mod/modals/index.php:81
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: mod/modals/index.php:112
+msgid "Open button"
+msgstr "Кнопка открытия"
+
+#: mod/modals/settings.php:10
+msgid "Modal windows"
+msgstr "Модальные окна"
+
+#: mod/modals/settings.php:20
+msgid "Use modal windows"
+msgstr "Использовать модальные окна"
+
+#: mod/modals/tpl/metabox.php:2
+msgid "Text"
+msgstr "Текст"
+
+#: mod/modals/tpl/metabox.php:6
+msgid "id"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:10
+msgid "class"
+msgstr ""
+
+#: mod/modals/tpl/metabox.php:13
+msgid "Button shortcode:"
+msgstr "Шорткод кнопки:"
+
+#: mod/modals/tpl/metabox.php:17
+msgid ""
+"Generate this window only if there is a shortcode on the page to open it"
+msgstr ""
+"Сгенерировать данное окно только если на странице есть шорткод для его "
+"открытия"
+
+#: mod/optimize/actions.php:15 mod/optimize/actions.php:34
+#, php-format
+msgid "Revisions removed: %d"
+msgstr "Удалено редакций: %d"
+
+#: mod/optimize/actions.php:50
+#, php-format
+msgid "Autosaves removed: %d"
+msgstr "Удалено автосохранений: %d"
+
+#: mod/optimize/settings.php:10
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: mod/optimize/settings.php:29
+msgid "Maximum number of revisions per post"
+msgstr "Максимальное число редакция для каждой записи"
+
+#: mod/optimize/settings.php:37
+msgid "Delete existing revisions"
+msgstr "Удалить существующие редакции"
+
+#: mod/optimize/settings.php:45
+msgid "Delete existing autosaves"
+msgstr "Удалить существующие автосохранения"
+
+#: mod/optimize/settings.php:53
+msgid ""
+"Check for updates only in the background and when you load the page "
+"\"Updates\""
+msgstr ""
+"Оставить поиск обновлений только в фоновом режиме и при загрузке страницы "
+"\"Обновления\""
+
+#: mod/optimize/settings.php:61
+msgid "Disable scripts and styles for Emojis"
+msgstr "Отключить скрипты и стили Эмодзи"
+
+#: mod/optimize/tpl/settings_emojis.php:2
+msgid "Emojis"
+msgstr "Эмодзи"
+
+#: mod/optimize/tpl/settings_emojis.php:3
+msgid ""
+"WordPress connects to the site additional scripts and styles needed to "
+"display Emoji. After disabling them, you will see the usual smiles, but in "
+"some browsers (eg IE) they will be black and white."
+msgstr ""
+"WordPress подключает на сайт дополнительные скрипты и стили, необходимые для "
+"отображения Эмодзи. После их отключения, будут отображаться обычные смайлы, "
+"но в некоторых браузерах (например IE) они будут черно белыми."
+
+#: mod/optimize/tpl/settings_revisions.php:2
+msgid "Revisions"
+msgstr "Редакции"
+
+#: mod/optimize/tpl/settings_revisions.php:3
+msgid ""
+"Every time you update a post/page, WordPress creates a new row in the "
+"database (and store it for 7 days). This makes it possible, if necessary, to "
+"restore any of the revisions. But the more rows in the database - the slower "
+"the site."
+msgstr ""
+"При каждом обновлении запси/страницы, WordPress создает в базе данных новую "
+"строку (и хранит её 7 дней). Это дает возможность, при необходимости, "
+"восстановить любую из редакций. Но чем больше строк в базе данных - тем "
+"медленее работает сайт."
+
+#: mod/optimize/tpl/settings_revisions.php:9
+msgid "infinite (default)"
+msgstr "безконечно (по умолчанию)"
+
+#: mod/optimize/tpl/settings_revisions.php:13
+msgid "off"
+msgstr "выкл"
+
+#: mod/optimize/tpl/settings_search_update.php:2
+msgid "Updates"
+msgstr "Обновления"
+
+#: mod/optimize/tpl/settings_search_update.php:3
+msgid ""
+"Each time, when any admin panel page is loading, WordPress, at different "
+"intervals (depending on the specific page), search for updates core, themes "
+"and plugins. In some situations, this greatly slows down the loading of the "
+"admin panel pages."
+msgstr ""
+"При каждой загрузке любой страницы админ панели WordPress, с разной "
+"периодичностью (в зависимости от конкретной страницы), выполняет поиск "
+"обновлений ядра, тем и плагинов. В некоторых ситуациях это сильно замедляет "
+"загрузку страниц админ панели."
+
+#: mod/optimize/tpl/settings_search_update.php:4
+msgid ""
+"In addition, the search for updates runs once an hour in the background, "
+"which does not affect the speed of page loading."
+msgstr ""
+"Помимо этого поиск обновлений запускантся раз в час в фоновом режиме, что "
+"никак не влияет на скорость загрузки страницы."
+
+#: mod/tags/settings.php:10
+msgid "Tags"
+msgstr "Метки"
+
+#: mod/tags/settings.php:20
+msgid "Use quick adding tags"
+msgstr "Использовать быстрое добавление меток"
+
+#: mod/thumbnails/settings.php:10
+msgid "Thumbnails"
+msgstr "Миниатюры"
+
+#: mod/thumbnails/tpl/field_add.php:2 mod/thumbnails/tpl/field_edit.php:5
+#: mod/thumbnails/tpl/field_quick.php:5
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: mod/thumbnails/tpl/field_add.php:5 mod/thumbnails/tpl/field_edit.php:15
+#: mod/thumbnails/tpl/field_quick.php:9
+msgid "Select"
+msgstr "Выбрать"
+
+#: mod/thumbnails/tpl/field_add.php:6 mod/thumbnails/tpl/field_edit.php:16
+#: mod/thumbnails/tpl/field_quick.php:10
+msgid "Remove"
+msgstr "Удалить"
+
+#: mod/thumbnails/tpl/field_add.php:7 mod/thumbnails/tpl/field_edit.php:17
+#, php-format
+msgid "To get the path of the thumbnail, use the PHP function: %s"
+msgstr "Для получения адреса миниатюры используйте PHP функцию: %s"
+
+#: mod/translit/actions.php:66
+#, php-format
+msgid "Converted slugs: %d"
+msgstr "Преобразовано слагов: %d"
+
+#: mod/translit/index.php:24
+#, php-format
+msgid ""
+"You can convert all existing Cyrillic slugs to translit on the %ssettings "
+"page%s of plugin"
+msgstr ""
+"Преобразовать все существующие кириллические слаги в транслит можно на "
+"%sстранице настроек%s плагина"
+
+#: mod/translit/index.php:32 mod/translit/index.php:33
+#: mod/translit/settings.php:10 mod/translit/tpl/generator.php:4
+#: mod/translit/tpl/generator.php:12
+msgid "Translit"
+msgstr "Транслит"
+
+#: mod/translit/settings.php:11
+msgid "All available characters will be converted to lower case"
+msgstr "Все конвертируемые символы будут приведены к нижнему регистру"
+
+#: mod/translit/settings.php:20
+msgid ""
+"Turn on translit for posts and terms (including pages, categories, tags)"
+msgstr ""
+"Включить транслит для записей и терминов (в т.ч. страницы, рубрики, теги)"
+
+#: mod/translit/settings.php:36
+msgid "Restore default rule settings (based on ISO 9:1995)"
+msgstr ""
+"Восстановить настройки правил по умолчанию (за основу взят стандарт ISO "
+"9:1995)"
+
+#: mod/translit/settings.php:45
+msgid ""
+"Convert all existing slugs that do not comply with the current rules, except "
+"for the names of media files"
+msgstr ""
+"Преобразовать ВСЕ существующие слаги не соответствующие текущим правилам, "
+"кроме названий медиафайлов"
+
+#: mod/translit/tpl/generator.php:8
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+#: mod/translit/tpl/generator.php:13
+msgid "Click to copy"
+msgstr "Нажмите для копирования"
+
+#: mod/translit/tpl/settings.php:14
+msgid "Other characters that are not valid for the URL"
+msgstr "Прочие символы, недопустимые для URL символы"
+
+#: real-kit.php:17
+msgid "Requires PHP 5.6 or higher"
+msgstr "Требуется версия PHP 5.6 или выше"
+
+#: real-kit.php:18
+#, php-format
+msgid "Current version: %s"
+msgstr "Текущая версия: %s"
+
+#: real-kit.php:41
+msgid "Settings"
+msgstr "Настройки"
+
+#. Plugin Name of the plugin/theme
+#: settings.php:8 settings.php:9 tpl/settings.php:4
+msgid "real.Kit"
+msgstr ""
+
+#: tpl/settings.php:8
+#, php-format
+msgid "I would be very grateful for any %s support %s !"
+msgstr "Буду безмерно благодарен за любую %s поддержку %s !"
+
+#. Description of the plugin/theme
+msgid ""
+"Main features: translit, ID column, thumbnails for categories and tags, "
+"simple modal windows, a plug at the time of development of the site, an "
+"extended widget \"At a Glance\", different options to optimize the site."
+msgstr ""
+"Основные возможности: транслит, колонка ID, миниатюры для рубрик и меток, "
+"простые модальные окна, заглушка на время разработки сайта, расширеный "
+"виджет \"На виду\", разные опции для оптимизации работы сайта."
+
+#. Author of the plugin/theme
+msgid "realMaster"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Translit"
+#~ msgid "Translit generator"
+#~ msgstr "Транслит"
+
+#, fuzzy
+#~| msgid "Translit"
+#~ msgid "Translit:"
+#~ msgstr "Транслит"
+
+#~ msgid ""
+#~ "Набор дополнений и улучшений WordPress | <a target=\"_blank\" "
+#~ "href=\"https://wordpress.org/plugins/real-kit/\">English Description.</a>"
+#~ msgstr ""
+#~ "Набор дополнений и улучшений WordPress | <a target=\"_blank\" "
+#~ "href=\"https://wordpress.org/plugins/real-kit/\">English Description.</a>"
+
+#, fuzzy
+#~| msgid "To get the path of the thumbnail, use the PHP function: %s"
+#~ msgid "To get the path of the thumbnail, use the PHP function: %s."
+#~ msgstr "Для получения адреса миниатюры используйте PHP функцию: %s"
+
+#~ msgid "Use modal windows on this site."
+#~ msgstr "Использовать модальные окна"
+
+#~ msgid "Categories"
+#~ msgstr "Рубрики"
+
+#~ msgid "Column ID"
+#~ msgstr "Колонка ID"
+
+#~ msgid "Колонка ID"
+#~ msgstr "Колонка ID"

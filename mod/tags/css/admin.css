@@ -1,0 +1,9 @@
+.realkit_tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.realkit_tags button {}
+.realkit_tags button.realkit_tag_active {
+  display: none;
+}
